@@ -1,4 +1,6 @@
 Backbone-relational
+===================
+
 This is a redistribution of [Backbone-relational][1].
 
 To use this module in your projects just add the following dependency:
