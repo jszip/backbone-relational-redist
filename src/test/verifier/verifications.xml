@@ -4,7 +4,7 @@
   <files>
     <file>
       <location>target/classes/backbone-relational.js</location>
-      <contains>^/\*\*</contains>
+      <contains>^/\*</contains>
     </file>
     <file>
       <location>target/classes/backbone-relational.js</location>
